@@ -1,1 +1,3 @@
-# LFA-tema2
+## Limbaje formale si automate - year I
+
+Minimization of an automata
